@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfAreaSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AreaSave>
+    <isvisited>true</isvisited>
+    <islit>false</islit>
+    <isexplored>true</isexplored>
+    <islitbyitem>false</islitbyitem>
+    <searchtime>1</searchtime>
+    <lookaroundtime>1</lookaroundtime>
+    <exploretime>0</exploretime>
+    <noitemsleft>true</noitemsleft>
+    <nointeractiblesleft>false</nointeractiblesleft>
+    <nopanelsleft>true</nopanelsleft>
+    <noexitsleft>true</noexitsleft>
+    <isdiscovered>
+      <boolean>false</boolean>
+    </isdiscovered>
+    <islocked>
+      <boolean>false</boolean>
+    </islocked>
+    <extraLoreData />
+    <savedBackground>0</savedBackground>
+  </AreaSave>
+  <AreaSave>
+    <isvisited>false</isvisited>
+    <islit>false</islit>
+    <isexplored>false</isexplored>
+    <islitbyitem>false</islitbyitem>
+    <searchtime>1</searchtime>
+    <lookaroundtime>1</lookaroundtime>
+    <exploretime>0</exploretime>
+    <noitemsleft>false</noitemsleft>
+    <nointeractiblesleft>false</nointeractiblesleft>
+    <nopanelsleft>false</nopanelsleft>
+    <noexitsleft>false</noexitsleft>
+    <isdiscovered>
+      <boolean>true</boolean>
+    </isdiscovered>
+    <islocked>
+      <boolean>false</boolean>
+    </islocked>
+    <extraLoreData />
+    <savedBackground>0</savedBackground>
+  </AreaSave>
+</ArrayOfAreaSave>

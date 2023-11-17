@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8f1ca33e740fd4784bedc9a802bab5, type: 3}
+  m_Name: The Corridor
+  m_EditorClassIdentifier: 
+  visited: 0
+  lit: 0
+  explored: 0
+  inside: 1
+  pulsingIntensity: 1
+  whenNotVisited: 
+  whenVisited: 
+  whenLit: 
+  whenNotLit: 
+  availableExits:
+  - destination: {fileID: 11400000, guid: 5a8a00fbb66366c42a829538d630206c, type: 2}
+    timeToTravel: 0
+    chanceToFind: 100
+    discoverableWithLight: 0
+    secret: 0
+    textWhenTravellingTo: 
+    textWhenDiscovering: 
+    discovered: 1
+  onEnterArea: {fileID: 0}
+  musicFile: {fileID: 8300000, guid: 6fbfae4c73c90dc41b7af6d0930ca41f, type: 3}
+  backgroundImages:
+  - {fileID: 21300000, guid: 3ea7480a7662a6d41b43493d27c1cc5c, type: 3}
+  noSaveArea: 0

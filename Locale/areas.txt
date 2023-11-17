@@ -1,0 +1,484 @@
+Pulsar - version 1.0.3.2
+
+
+Areas:
+Area name:A room
+First visit description:
+  Greeted by darkness and silence, the senses awaken. Standing up from the floor seems like a burden. The mind struggles to function. 
+  The room seems empty and you remember nothing. Still, a dim red light blinks close by.
+Visit description:
+  An empty space. Perhaps cold? Perhaps home. Familiar enough to be cozy.
+When lit description:
+
+Area name:Large cave
+First visit description:
+  Heavy steps need to be careful. The darkness is everywhere. And silence. No, a silent song of echoes, repeating with regularity and clarity. This world sings.
+Visit description:
+  Familiarity cannot be reached with complete darkness, but then again, the steps become more and more secure. The cave is vast, but the memory of its darkness slowly makes it more and more like home.
+When lit description:
+The light shows frozen ground and debris scattered everywhere. This cave was born from quick violence.
+Area name:Mining site
+First visit description:
+  This corner of the cave seems to have been extensively mined. The positioning of everything here seems a bit strange though.
+Visit description:
+  With every visit, everything here seems more and more off. Abnormality in position and direction is common and, most of the time, peculiar.
+
+When lit description:
+The light reveals that everything is covered in a thick layer of ice.
+Area name:Cave exit
+First visit description:
+  This seems to have been an exit. Blue light pours through small spaces between the large boulders that block the way.
+Visit description:
+  The way out remains shut, but the wall of boulders seems thin and weak. 
+When lit description:
+
+Area name:Dark corridor
+First visit description:
+  Each step here is tedious, for nothing can be sensed. The walls seem iregular and winding... the floor slippery. And this tunnel seems to be extremly long.
+Visit description:
+  Every tick spent here is a nightmare. There is no such thing as a secure step.
+When lit description:
+Light reveals the walls, frozen in time. The winding corridor is perhaps not as long as sensed.
+Area name:A window to the stars
+First visit description:
+Light... blue and bright, filled with a pulsating song coming from far away. The area is not that large, and different objects are scattered around. 
+  Someone found shelter here, next to the large hole in the wall. The stars are dancing.
+Visit description:
+  The cold light welcomes the steps and the senses.
+When lit description:
+
+Area name:A locked door
+First visit description:
+  The corridor seems to end with a tightly locked door.
+Visit description:
+  Unmovable and unbreakable, the door continues to block the way further.
+When lit description:
+
+Area name:Frozen outskirts
+First visit description:
+  Frozen winds roam the deserted wasteland opening up all around. The senses are overwhelmed, as well as the body. 
+Visit description:
+  The outskirts open up around, desolated and cold, dangerous and loud. 
+When lit description:
+
+Area name:Lobby
+First visit description:
+  The steps lead into a large room. Debris and frozen junk is scattered everywhere, all bathed in a dim red light.
+Visit description:
+  There are paths around all the obstacles scattered around. This place seems to have seen a lot of activity in the past.
+When lit description:
+
+Area name:Beyond a fissure
+First visit description:
+  A dark frozen floor tricks the feet. The steps should be made with extreme care.
+Visit description:
+  Mind the step, for it is dark and the floor is slippery.
+When lit description:
+
+Area name:Chapter I
+First visit description:
+
+Visit description:
+
+When lit description:
+
+Area name:Chapter II
+First visit description:
+
+Visit description:
+
+When lit description:
+
+Area name:Outside
+First visit description:
+
+Visit description:
+
+When lit description:
+
+Area name:Between four walls
+First visit description:
+  The pull was sensed and somehow, the limbs helped. Through thundering noise and blinding light, through shards of ice and falling rock, the spider like machine carries your weight. Or so you sense.
+  And soon, only the noise booms rhytmically, while everything else is covered again in darkness.
+  Shelter... finally.
+Visit description:
+  The once fallen door now stands welded. The square room seems claustrophobic but it is safe. 
+  There is no window to give a hint of what is going on outside but the distant humm is not lound any more.
+When lit description:
+
+Area name:A cellar
+First visit description:
+  A short way down and darkness is blacker. This place has been tightly shut for a very long time.
+Visit description:
+  Small and claustrophobic. Is it safer than outside?
+When lit description:
+
+Area name:Hidden alcove
+First visit description:
+  Originally a black patch on a black wall - but the senses have pierced the darkness, and the stain has become a place. 
+  And every place needs to be explored.
+Visit description:
+  This place seems cozy... or is this just the quiet ghost of a memory long forgotten?
+When lit description:
+
+Area name:Deeper and darker
+First visit description:
+  Past the fissure, every sense struggles. The eyes cannot see, the ears cannot hear and the touch cannot feel. The place is wide and tall... and peculiarly quieter.
+Visit description:
+  While small rocks and gravel is felt during walking, the steps have a hard time finding surfaces that are not smooth. A quick touch is needed to make sure again of the fact that the floor is quite smooth.
+When lit description:
+
+Area name:Vault
+First visit description:
+  The small room is crushing to the senses. The darkness here makes it even worse.
+Visit description:
+  Everything here is barely sensed, but the short echo of the steps is enough evidence regarding the size of this place.
+When lit description:
+Light reveals smooth dark walls and a floor to match. There is not much ice here, as if this place was locked away for a long time and, in high contrast with other places, this small room is extremly clean.
+  The wall opposite to the entrance seems to contain metallic drawers. Few of them are missing.
+Area name:Underground hall
+First visit description:
+  The echo of the steps is long here. The room looks huge, both in length and width, and in height. And through the all-encompassing darkness, only vague shadows can distinguish themselves-the only possible destinations.
+Visit description:
+  The senses can't be precise in a place where the landmarks are just black spots on a black canvas. Travelling and movement are even more difficult...
+When lit description:
+A little light is enough for the senses to pick up those slight changes in shades.
+Area name:Burried building
+First visit description:
+Black walls, half burried but still standing, rise tall towards the invisible ceiling of the cave. No entrance is easy to find for the senses.
+Visit description:
+Half of the building is swallowed by the cave walls, while most of the other half is trapped under large boulders of heavy rock. Still, the building seems intact.
+When lit description:
+
+Area name:Inside
+First visit description:
+  The pulsing song is barely audible here. And the darkness is black as death.
+Visit description:
+  The silence here is rarely disturbed by the very distant pulsing sound.
+When lit description:
+
+Area name:Collapsed
+First visit description:
+  A weight is sensed. Was it the fall? Is walking possible? No... maybe crawling. 
+  As long as it is locomotion, as long as the senses can be guided, it works. 
+Visit description:
+  The tight space between the ceiling and floor is more than enough for a crawl. But with each crawl, a suffocating memory resurfaces more and more often. A way out needs to be found...
+When lit description:
+
+Area name:Starlit alcove
+First visit description:
+  From crawl to standing, as the path heightens more and more until it dissapears. 
+  A large hole opens up far above. Light pours through it.
+Visit description:
+  The walls around are steep and the ice made sure they are unclimbable. The area though is wide. Who knows what lies hidden behind the curtain of light?
+When lit description:
+
+Area name:The vent
+First visit description:
+
+Visit description:
+
+When lit description:
+Pulsar - version 1.0.3.2
+
+
+Areas:
+
+Area name:A room
+First visit description:
+  Greeted by darkness and silence, the senses awaken. Standing up from the floor seems like a burden. The mind struggles to function. 
+  The room seems empty and you remember nothing. Still, a dim red light blinks close by.
+Visit description:
+  An empty space. Perhaps cold? Perhaps home. Familiar enough to be cozy.
+When lit description:
+
+
+Area name:Large cave
+First visit description:
+  Heavy steps need to be careful. The darkness is everywhere. And silence. No, a silent song of echoes, repeating with regularity and clarity. This world sings.
+Visit description:
+  Familiarity cannot be reached with complete darkness, but then again, the steps become more and more secure. The cave is vast, but the memory of its darkness slowly makes it more and more like home.
+When lit description:
+The light shows frozen ground and debris scattered everywhere. This cave was born from quick violence.
+
+Area name:Mining site
+First visit description:
+  This corner of the cave seems to have been extensively mined. The positioning of everything here seems a bit strange though.
+Visit description:
+  With every visit, everything here seems more and more off. Abnormality in position and direction is common and, most of the time, peculiar.
+
+When lit description:
+The light reveals that everything is covered in a thick layer of ice.
+
+Area name:Cave exit
+First visit description:
+  This seems to have been an exit. Blue light pours through small spaces between the large boulders that block the way.
+Visit description:
+  The way out remains shut, but the wall of boulders seems thin and weak. 
+When lit description:
+
+
+Area name:Dark corridor
+First visit description:
+  Each step here is tedious, for nothing can be sensed. The walls seem iregular and winding... the floor slippery. And this tunnel seems to be extremly long.
+Visit description:
+  Every tick spent here is a nightmare. There is no such thing as a secure step.
+When lit description:
+Light reveals the walls, frozen in time. The winding corridor is perhaps not as long as sensed.
+
+Area name:A window to the stars
+First visit description:
+Light... blue and bright, filled with a pulsating song coming from far away. The area is not that large, and different objects are scattered around. 
+  Someone found shelter here, next to the large hole in the wall. The stars are dancing.
+Visit description:
+  The cold light welcomes the steps and the senses.
+When lit description:
+
+
+Area name:A locked door
+First visit description:
+  The corridor seems to end with a tightly locked door.
+Visit description:
+  Unmovable and unbreakable, the door continues to block the way further.
+When lit description:
+
+
+Area name:Frozen outskirts
+First visit description:
+  Frozen winds roam the deserted wasteland opening up all around. The senses are overwhelmed, as well as the body. 
+Visit description:
+  The outskirts open up around, desolated and cold, dangerous and loud. 
+When lit description:
+
+
+Area name:Lobby
+First visit description:
+  The steps lead into a large room. Debris and frozen junk is scattered everywhere, all bathed in a dim red light.
+Visit description:
+  There are paths around all the obstacles scattered around. This place seems to have seen a lot of activity in the past.
+When lit description:
+
+
+Area name:Beyond a fissure
+First visit description:
+  A dark frozen floor tricks the feet. The steps should be made with extreme care.
+Visit description:
+  Mind the step, for it is dark and the floor is slippery.
+When lit description:
+
+
+Area name:Chapter I
+First visit description:
+
+Visit description:
+
+When lit description:
+
+
+Area name:Chapter II
+First visit description:
+
+Visit description:
+
+When lit description:
+
+
+Area name:Outside
+First visit description:
+
+Visit description:
+
+When lit description:
+
+
+Area name:Between four walls
+First visit description:
+  The pull was sensed and somehow, the limbs helped. Through thundering noise and blinding light, through shards of ice and falling rock, the spider like machine carries your weight. Or so you sense.
+  And soon, only the noise booms rhytmically, while everything else is covered again in darkness.
+  Shelter... finally.
+Visit description:
+  The once fallen door now stands welded. The square room seems claustrophobic but it is safe. 
+  There is no window to give a hint of what is going on outside but the distant humm is not lound any more.
+When lit description:
+
+
+Area name:A cellar
+First visit description:
+  A short way down and darkness is blacker. This place has been tightly shut for a very long time.
+Visit description:
+  Small and claustrophobic. Is it safer than outside?
+When lit description:
+
+
+Area name:Hidden alcove
+First visit description:
+  Originally a black patch on a black wall - but the senses have pierced the darkness, and the stain has become a place. 
+  And every place needs to be explored.
+Visit description:
+  This place seems cozy... or is this just the quiet ghost of a memory long forgotten?
+When lit description:
+
+
+Area name:Deeper and darker
+First visit description:
+  Past the fissure, every sense struggles. The eyes cannot see, the ears cannot hear and the touch cannot feel. The place is wide and tall... and peculiarly quieter.
+Visit description:
+  While small rocks and gravel is felt during walking, the steps have a hard time finding surfaces that are not smooth. A quick touch is needed to make sure again of the fact that the floor is quite smooth.
+When lit description:
+
+
+Area name:Vault
+First visit description:
+  The small room is crushing to the senses. The darkness here makes it even worse.
+Visit description:
+  Everything here is barely sensed, but the short echo of the steps is enough evidence regarding the size of this place.
+When lit description:
+Light reveals smooth dark walls and a floor to match. There is not much ice here, as if this place was locked away for a long time and, in high contrast with other places, this small room is extremly clean.
+  The wall opposite to the entrance seems to contain metallic drawers. Few of them are missing.
+
+Area name:Underground hall
+First visit description:
+  The echo of the steps is long here. The room looks huge, both in length and width, and in height. And through the all-encompassing darkness, only vague shadows can distinguish themselves-the only possible destinations.
+Visit description:
+  The senses can't be precise in a place where the landmarks are just black spots on a black canvas. Travelling and movement are even more difficult...
+When lit description:
+A little light is enough for the senses to pick up those slight changes in shades.
+
+Area name:Burried building
+First visit description:
+Black walls, half burried but still standing, rise tall towards the invisible ceiling of the cave. No entrance is easy to find for the senses.
+Visit description:
+Half of the building is swallowed by the cave walls, while most of the other half is trapped under large boulders of heavy rock. Still, the building seems intact.
+When lit description:
+
+
+Area name:Inside
+First visit description:
+  The pulsing song is barely audible here. And the darkness is black as death.
+Visit description:
+  The silence here is rarely disturbed by the very distant pulsing sound.
+When lit description:
+
+
+Area name:Collapsed
+First visit description:
+  A weight is sensed. Was it the fall? Is walking possible? No... maybe crawling. 
+  As long as it is locomotion, as long as the senses can be guided, it works. 
+Visit description:
+  The tight space between the ceiling and floor is more than enough for a crawl. But with each crawl, a suffocating memory resurfaces more and more often. A way out needs to be found...
+When lit description:
+
+
+Area name:Starlit alcove
+First visit description:
+  From crawl to standing, as the path heightens more and more until it dissapears. 
+  A large hole opens up far above. Light pours through it.
+Visit description:
+  The walls around are steep and the ice made sure they are unclimbable. The area though is wide. Who knows what lies hidden behind the curtain of light?
+When lit description:
+
+
+Area name:The vent
+First visit description:
+
+Visit description:
+
+When lit description:
+
+
+
+Events
+
+Event name:Memory of a Smile
+Event description:  It is there, reaching through beakers and funnels, bright like the sun. The tall shape leaning on the door frame stares... and smiles. And then the smile fades to concern, as a barely audible pulsing sound fills the room. The light starts to fade; the monothone melody becomes stronger and stronger, closer and closer, from nowhere and from everywhere. As darkness engulfs everything, the smile is barely there.
+  "Wake up...", it whispered.
+  And the pulsing sound is louder and louder.
+  "Wake up now!", the smile screamed. "Wake up! Wake up! ..."
+
+Event name:Memory of Urgency
+Event description:  The memory, awoken by this peculiarly familiar side of the cave, struggles to escape the deep and dark depths of the mind, while a feeling of urgency empowers the body. Crates and sentinels, shades of men and women, all standing in the way. Running... haste... air... A bump into someone, or something - a voice barely pronouncing "Sorry!" between heavy breaths of oxygen.
+  The mining site is there, at the base of the hill. It seems midpoint to a destination still lost to the memory, a destination that HAS to be reached...
+  Run!
+
+Event name:Tutorial
+Event description:  Greetings player, and welcome to Pulsar. This is a story based adventure game focused on reading and exploration. 
+  The main screen has some buttons:
+  [Travel] - Here you can search and/or travel to other areas
+  [Inspect] - A place to find interactibles in each area.
+  [Pick up] - Items of all sorts are scattered and here is where you can search for them.
+  [Inventory] - Self-explanatory. Get here to use items or to check what you got
+  [Combine] - To get some items, you need to combine others (sort of a crafting system, but not THAT stellar, mind you).
+
+  This is all. Read as much as you can and I hope you enjoy the story I offer you. 
+  Some tips:
+- many things cannot be found on the first try. 
+- all crafting recipes are either found throughout the world or they are straightforward.
+- whenever something was discovered the specific button will light up. 
+
+  Thank you for playing this, player. I appreciate it. 
+
+  Best regards,
+  Daniel (<--- Developer or something)
+
+Event name:Memory of a Camp
+Event description:  People and rovers, all scattered in complete disarray; a hurried step as a feeling of lack of time fills the mind... Two shapes of men speak to the memory, their hands moving, their words mute, their faces - desperate, as they turn to look up. Suddenyl, the light becomes blinding and it hurts. A booming sound and then pain... 
+
+Event name:Memory of Light
+Event description:  A speckle of light in the darkness - it is a fade but sweet memory that keeps returning, while so many others are lost in the dark depths of the mind. Soothing and loving, the smile and warm look struggle to escape that abyss. They fail. Instead, shadows and silence fill the memory once again. 
+
+Event name:Noises in the Darkness
+Event description:  Mechanical noises fill the darkness of the cave. Rocks fall somewhere behind... metal on ice, then metal on rock. The senses struggle, until the red light of its sensors break through the darkness. 
+  A quick turn reveals another sentinel, its form approaching with surprising speed. It seems angry and soon, it crouches ready to attack.
+
+Event name:Memory of Reflection
+Event description:  A gentle grip on the photo; a woman and a man embraced in happines... smiling. And the mind opens up and the grip becomes tighter.  
+  Tired eyes stare back now. A hand goes and whipes them, then guides a lock of hair behind the ear. No smile given, no smile received... unlike the hopeful and bright smile still visible on the old photo.
+  But no time to lose. The memory fades while somewhere close by, a booming and continuous sound lingers.
+
+Event name:Memory of a Purpose
+Event description:  Memory guides the senses now. Steps lead ahead hurried, following metallic pathways towards a purpose not yet perceived or remembered. 
+  And soon, just ahead, a sea of light awaits in all its glory and power. The memory shudders, then focuses on a single black spot:a final destination - the single place in space and time where everything will have to be executed with perfect accuracy.
+
+Event name:A blinding light
+Event description:  The world opens up ahead. The frantic sound of the wind is faded compared to the rhythmic pulse coming from everywhere. Simple, loud, never skipping a beat...
+  And from the cold depths of the sky, something stirrs. First, a blinding light bathes everything in white. The sky trembles while multicolored fractals appear in wavy dissarray. Soon, the pulses grow in strength as the senses fail to resist. 
+  Thrown back... and the lack of footing. But no pain...
+
+Event name:Thank you!
+Event description:  Thank you, dear player, for reaching the end of chapter 1. I hope you enjoyed this little game.
+  The next chapter will come as soon as I can make it. As it is, your save game will work and you will be able to continue the game with all the items and knowledge you gathered.
+  Again, thank you. And I hope to see you soon when Chapter II is out.
+  
+
+Event name:Tremors
+Event description:  Just one step was done. Hard, prolong ... and the door remains behind. The room is wide, but the darkness makes it increasingly claustrophobic. And then the bang ...
+  Everything shuddered in giddy noise. The old walls are barely resisting. The senses dare to keep their balance, but not for long, for the ceiling cracks and soon collapses.
+  The senses are fading now ... but there is no pain.
+
+Event name:Below
+Event description:  Outside... everything seems deserted and dark. The wind is screaming, the rhythmic humm not stopping at all. Everything seems dead, engulfed by an ice coffin ...
+  The humm increases in intensity while the rhythmic light becomes unbearable. And suddenly, the sky explodes in a million colors. The ground shuddered.
+  A crackling sound ... the balance is lost, and the fall seems long. Everything is dark now.
+
+Event name:The sentinel
+Event description:  The sentinel on your back shudders and suddenly jumps off. Its spiderlike legs carry it in front of you, as it stares up. Its sensors are pointing towards a battery at your belt.
+
+Event name:Memory of Blue
+Event description:  The woman stood there, in front of the senses, her blue eyes staring somewhat happily at something; staring back... perhaps. Surrounded by impending doom and complete darkness, their blue smile lingered... the memory lingered. 
+
+Event name:The ground shakes
+Event description:  It started slowly, the tremor wide and lazy. Then it suddenly grew in speed and strength, while the cave echoed in pain. 
+  How long was it? 
+
+Event name:A Dance of Light
+Event description:  The clear clap of the steps and the distant and fade pulsing sound were enough for the senses. But something sparkled in the distance, far above. It was too fast for the senses. But soon, another blink - followed by a fade humm. And then another, and another... all above and around, in tandem with the pulsing sound. Large irregular stones blinked and hummed, forming a wave of light and song on the high ceiling of the cave. 
+  And as soon as it started, it stopped. The lights and the humming faded and soon, everything was engulfed in blackness again.
+
+Event name:Memory of a Decision
+Event description:  The memory stands in front of a drawer in a wall. The light gives everything a shiny and clean look - and a feeling of warmth to a tired body. 
+  A key is needed for the drawer. A hand goes to the side pocket but then stops as a continuous beeping sound stole the attention.
+  And the memory dissipates into darkness as sudden as it appeared. All that is left is a key held in a gentle grip of the hand.
+
+Event name:Inside the Vault
+Event description:  As the step was made inside, the door shut close behind. Suddenly, everything got darker, as the echo of the shutting door circled the small room.
+  The senses shudder and struggle, but the darkness is too deep and a way back is still hidden.

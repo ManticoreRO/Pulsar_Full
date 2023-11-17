@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfEventSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EventSave>
+    <isrunning>true</isrunning>
+    <isdone>false</isdone>
+    <isactivated>true</isactivated>
+    <onceaday>false</onceaday>
+    <nexttimetorepeat>0</nexttimetorepeat>
+  </EventSave>
+</ArrayOfEventSave>

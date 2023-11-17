@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a8f1ca33e740fd4784bedc9a802bab5, type: 3}
+  m_Name: A Cold Room
+  m_EditorClassIdentifier: 
+  visited: 0
+  lit: 0
+  explored: 0
+  inside: 1
+  pulsingIntensity: 1
+  whenNotVisited: '  Senses awake. It is cold but there is no shiver of the limbs;
+    it is dark but the eyes are not upset; it is not silent... a pulsing song reaches
+    - rhytmic, faded, unrelenting, calming -.'
+  whenVisited: '  It feels like home, or how home should feel like.'
+  whenLit: 
+  whenNotLit: 
+  availableExits:
+  - destination: {fileID: 11400000, guid: 746a00fd1a961ca448f17b20b45075a2, type: 2}
+    timeToTravel: 0
+    chanceToFind: 0
+    discoverableWithLight: 0
+    secret: 1
+    textWhenTravellingTo: 
+    textWhenDiscovering: 
+    discovered: 0
+  onEnterArea: {fileID: 11400000, guid: 4d439d99bc78a884fa22d3c528d5f9fa, type: 2}
+  musicFile: {fileID: 8300000, guid: 6fbfae4c73c90dc41b7af6d0930ca41f, type: 3}
+  backgroundImages:
+  - {fileID: 21300000, guid: 32c5893380765b74289934caa67c6cd9, type: 3}
+  noSaveArea: 0

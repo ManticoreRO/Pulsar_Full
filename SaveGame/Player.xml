@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PlayerSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MaxShield>50</MaxShield>
+  <CurrentShield>50</CurrentShield>
+  <MaxEnergy>40</MaxEnergy>
+  <CurrentEnergy>40</CurrentEnergy>
+  <EnvironmentalResistance>0</EnvironmentalResistance>
+  <timeofSave>2020-06-27T13:07:22.9881359+03:00</timeofSave>
+  <currentArea>A Cold Room</currentArea>
+  <isportablePickedUp>false</isportablePickedUp>
+  <relayfixed>false</relayfixed>
+  <savedTicks>1</savedTicks>
+  <savedCycles>1</savedCycles>
+  <backgroundCurrentRotation>359.0123</backgroundCurrentRotation>
+  <soundVol>0.5</soundVol>
+  <musicVol>0.5</musicVol>
+  <isDuringBattle>false</isDuringBattle>
+</PlayerSave>

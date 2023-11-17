@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5230e686299c6244b49e31dd2f8053a, type: 3}
+  m_Name: UnhideTheCorridor
+  m_EditorClassIdentifier: 
+  initialArea: {fileID: 11400000, guid: 5a8a00fbb66366c42a829538d630206c, type: 2}
+  area: {fileID: 11400000, guid: 746a00fd1a961ca448f17b20b45075a2, type: 2}
